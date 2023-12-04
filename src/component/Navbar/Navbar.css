@@ -1,0 +1,42 @@
+#menu{
+    max-width: 1450px;
+    padding: 10px 10px;
+    margin: auto;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: #5E3DEE;
+    font-family:"SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+div{
+    padding: 5px;
+   /* border: 1px solid grey;*/
+}
+.menu-item{
+    color:#ffffffcc;
+    font-weight:lighter;
+    padding: 10px 15px;
+}
+.menu-item:hover{
+    color:white;
+}
+.container{
+    background-color: #5E3DEE;
+    cursor: pointer;
+}
+.round-btn{
+    border-radius: 20px;
+    border: 2px solid white;
+    padding: 10px 40px;
+    margin: 0 10px;
+}
+.round-btn:hover{
+    background-color: white;
+    color: #5E3DEE;
+}
+#logo{
+    font-size: 1.5rem;
+    color: white;
+    font-weight: bold;
+    margin-right: auto;
+}
