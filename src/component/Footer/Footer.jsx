@@ -6,7 +6,7 @@ function Footer() {
             <div id="footer">
                 <div className="footer-section">
                     <h3>About</h3>
-                    We're passionate about designing and developing one of the best marketing apps in the market
+                    We are passionate about designing and developing one of the best marketing apps in the market
                 </div>
                 <div className="footer-section rect">
                     <h3>Important Links</h3>
