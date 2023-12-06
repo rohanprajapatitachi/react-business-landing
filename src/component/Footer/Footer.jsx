@@ -25,7 +25,7 @@ function Footer() {
             </div>
             <div className="copyright">
                 <hr className="light-hr" />
-                <p>Copyright @ 2024 Landing Page by Rohan Prajapati</p>
+                <p>Copyright @ 2024 SaaS Landing Page by Rohan Prajapati</p>
             </div>
         </div>
     );
