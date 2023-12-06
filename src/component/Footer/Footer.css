@@ -1,0 +1,37 @@
+#footer{
+    max-width: 1200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    color: white;
+}
+.footer-section{
+    width: 400px;
+    line-height: 1.5rem;
+    padding: 10px;
+}
+.footer-section h3{
+    font-size: 1.5rem;
+}
+.footer-section ul{
+    list-style: none;
+    padding-left: 15px;
+}
+.rect ul{
+    list-style: square;
+}
+.footer-frame{
+    position: relative;
+    bottom: -5px;
+}
+.light-hr{
+    background-color: white;
+}
+.copyright{
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
